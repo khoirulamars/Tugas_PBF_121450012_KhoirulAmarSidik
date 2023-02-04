@@ -1,3 +1,3 @@
-Nama  : Khoirul Amar Sidik
-NIM   : 121450012
-Kelas : RA
+&nbsp; Nama : **Khoirul Amar Sidik**.\
+&nbsp; NIM  : **121450012**.\
+&nbsp; Kelas : **RA**
