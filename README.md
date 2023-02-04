@@ -1,1 +1,3 @@
-# Tugas_PBF_121450012_KhoirulAmarSidik
+Nama  : Khoirul Amar Sidik
+NIM   : 121450012
+Kelas : RA
